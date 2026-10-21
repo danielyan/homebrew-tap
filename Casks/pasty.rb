@@ -1,6 +1,6 @@
 cask "pasty" do
-  version "0.0.0,0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.1.0,4"
+  sha256 "e35f76f1df7321f65518bcd83091f0f21070d5c63d2174f69e4b8d4777e9839c"
 
   url "https://danielyan.github.io/pasty-releases/Pasty-#{version.csv.first}.zip"
   name "Pasty"
