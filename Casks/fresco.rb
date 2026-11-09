@@ -1,6 +1,6 @@
 cask "fresco" do
-  version "0.4.5,113"
-  sha256 "6b347282ce02c0df043d6894e2e675449a7392e5997c3c01286bb656af9c1ec2"
+  version "0.4.6,115"
+  sha256 "77842018e349f2d75302da2631764152b5b2bf828efd42a27f357ee3b81a1f5e"
 
   url "https://danielyan.github.io/fresco-releases/Fresco-#{version.csv.first}.zip"
   name "Fresco"
